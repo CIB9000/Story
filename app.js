@@ -64,7 +64,7 @@ app.listen(process.env.PORT || 3000, function(){
 });
 
 
-//sa vedem2
+//sa vedem
 
 //api key 478b388652d4c8ec5ad6fd7886fec7ce-us9
 
